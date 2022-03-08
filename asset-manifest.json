@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/frontend_workshop/static/css/main.abd64e84.css",
+    "main.js": "/frontend_workshop/static/js/main.870c9768.js",
+    "index.html": "/frontend_workshop/index.html",
+    "main.abd64e84.css.map": "/frontend_workshop/static/css/main.abd64e84.css.map",
+    "main.870c9768.js.map": "/frontend_workshop/static/js/main.870c9768.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.870c9768.js"
+  ]
+}
